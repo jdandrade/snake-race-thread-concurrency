@@ -1,6 +1,7 @@
 # snake-race-thread-concurrency
 
-![alt tag](http://imgur.com/ZM2dv4M)
+http://i.imgur.com/ZM2dv4M.png?1
+
 A variation of the popular game Snake using multi-snake threads moving against things to practice concurrency
 
 Project made during 2nd Year of graduation for the class - Distributive & Concurrent Programming
