@@ -21,7 +21,7 @@ There are 4 Special items on the board that Snakes can interact with:
 
 ##### Jump Pad
 
-- Getting a jump pad makes your Snake able to walk trought other objects/snakes.
+- Getting a jump pad makes your Snake able to walk through other objects/snakes.
 
 ##### Barrier
 
