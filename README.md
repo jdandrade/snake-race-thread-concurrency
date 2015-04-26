@@ -5,7 +5,7 @@
 
 A variation of the popular game Snake using multi-snake threads moving against things to practice concurrency
 
-Project made during 2nd Year of graduation for the class - Distributive & Concurrent Programming
+Project made during 2nd Year of graduation for the class - Concurrent and Parallel Programming
 
 ## Instructions
 
