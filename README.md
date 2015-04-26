@@ -1,6 +1,7 @@
 # snake-race-thread-concurrency
 
-http://i.imgur.com/ZM2dv4M.png?1
+![My image](https://github.com/jdandrade/snake-race-thread-concurrency/blob/master/SnakeRace.png)
+
 
 A variation of the popular game Snake using multi-snake threads moving against things to practice concurrency
 
